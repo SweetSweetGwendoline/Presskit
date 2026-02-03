@@ -6,7 +6,7 @@ It’s designed for indie developers to showcase their games professionally to j
 
 ## How to Use
 
-1. Clone the repository
+1. Clone the repository or create a new repositry from this template.
 2. Fill in your data in the `presskit.json` file.
 3. Customize the `custom-description` in the `index.html` file.
 4. Upload your media to the `assets/` folder.
@@ -28,5 +28,6 @@ Once you’ve customized your press kit, follow these steps to make it public:
 Distributed under the [MIT License](https://github.com/SweetSweetGwendoline/scopecreep/blob/main/LICENSE.md).
 
 Created with ❤️ by [SweetSweetGwendoline](https://github.com/sweetsweetgwendoline)
+
 
 
