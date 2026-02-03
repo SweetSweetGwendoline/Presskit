@@ -1,4 +1,4 @@
-# Press Kit Template
+# presskit
 A lightweight, responsive, and easy-to-use press kit template.
 It’s designed for indie developers to showcase their games professionally to journalists, influencers, and the public.
 
@@ -28,3 +28,4 @@ Once you’ve customized your press kit, follow these steps to make it public:
 Distributed under the [MIT License](https://github.com/SweetSweetGwendoline/scopecreep/blob/main/LICENSE.md).
 
 Created with ❤️ by [SweetSweetGwendoline](https://github.com/sweetsweetgwendoline)
+
